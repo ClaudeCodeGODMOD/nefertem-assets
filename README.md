@@ -1,0 +1,2 @@
+# nefertem-assets
+Public assets
